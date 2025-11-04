@@ -1,1 +1,1 @@
-{"version":"0.1.1","changelog":"First version with basic operations."}
+{"version":"0.1.0","changelog":"First version with basic operations."}
